@@ -1,3 +1,5 @@
+Keep in mind some commands have a space after they finish (like steps 4-6). THE SPACE IS IMPORTANT AND SO IS CAPITALISATION AND OTHER SHIT CODING IS SPECIFIC
+
 HOW TO INSTALL
 
 Step 1: Go to Steam and right click on ADOFAI in the game libraries and click properties -> browse game files to access the games files (folder shown in video)
